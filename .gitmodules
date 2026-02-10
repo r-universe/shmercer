@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	registered = false
 [submodule "pairwiseLLM"]
 	path = pairwiseLLM
 	url = https://github.com/shmercer/pairwisellm
